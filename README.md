@@ -33,7 +33,7 @@ npm install -g newman-reporter-htmlextra
 ```
 
 ## API Documentation:
-- https://documenter.getpostman.com/view/13082503/2s93Xwz4Az
+- https://documenter.getpostman.com/view/27204906/2s9Y5ctL5x
 
 ## Test case list:
 1. ### Create Student
@@ -63,8 +63,22 @@ npm install -g newman-reporter-htmlextra
 6. ### Create a Student Address
 	> In the test case you need to validate the following field values:
 	1. > Only Message
+    
+7. ### Verify Create a Student Address
+   	> In the test case you need to validate the following field values:
+        1. > House Number
+	2. > City
+	3. > State
+	4. > Country
+	5. > Std Code
+	6. > Home Address
+	7. > Mobile
 
-7. ### Get the Student's Full Details
+ 8. ### Update Create a Student Address
+        > In the test case you need to validate the following field values:
+ 	1. > Only Message
+
+9. ### Get the Student's Full Details
 	> In the test case you need to validate the following field values:
 	1. > First Name
 	2. > Middle Name
@@ -81,12 +95,14 @@ npm install -g newman-reporter-htmlextra
 	13. > Home Address
 	14. > Mobile
 
-8. ### Delete Specific Student
+10. ### Delete Specific Student
 	> In the test case you need to validate the following field values:
 	1. > Only Message
 
 ## Newman Report Summary:
-![image](https://github.com/SoniaAkter-Mona/Student_Rest_API_Newman/assets/121558562/5e8832ea-0d79-44e4-a607-8e723d3d7623)
-![image](https://github.com/SoniaAkter-Mona/Student_Rest_API_Newman/assets/121558562/2cf3eaf4-2965-4e7a-89ba-015a0b67c8b4)
+![image](https://github.com/SoniaAkter-Mona/Student_Rest_API_Newman/assets/121558562/085971e6-6af4-4ade-80b3-5dbab3d7c7fd)
+![image](https://github.com/SoniaAkter-Mona/Student_Rest_API_Newman/assets/121558562/ffc0c309-653f-4865-86ec-902a4fe06bca)
+
+
 
 
