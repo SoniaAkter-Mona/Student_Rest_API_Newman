@@ -75,7 +75,7 @@ npm install -g newman-reporter-htmlextra
 	7. > Mobile
 
  8. ### Update Create a Student Address
-        > In the test case you need to validate the following field values:
+      > In the test case you need to validate the following field values:
  	1. > Only Message
 
 9. ### Get the Student's Full Details
