@@ -86,3 +86,7 @@ npm install -g newman-reporter-htmlextra
 	1. > Only Message
 
 ## Newman Report Summary:
+![image](https://github.com/SoniaAkter-Mona/Student_Rest_API_Newman/assets/121558562/5e8832ea-0d79-44e4-a607-8e723d3d7623)
+![image](https://github.com/SoniaAkter-Mona/Student_Rest_API_Newman/assets/121558562/2cf3eaf4-2965-4e7a-89ba-015a0b67c8b4)
+
+
